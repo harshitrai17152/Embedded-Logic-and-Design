@@ -1,5 +1,4 @@
-This repository contains all labs done in "Verilog" as a part of the Embedded Logic and Design course.
-
+This repository contains all labs done in Verilog as a part of the Embedded Logic and Design course.
 Instructor : Dr. Sumit Darak
 
 Lab 1
