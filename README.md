@@ -2,7 +2,7 @@ This repository contains all labs done in Verilog as a part of the Embedded Logi
 
 Instructor : Dr. Sumit Darak
 
-Lab 1
+**Lab 1
 Design and implement a 4:2 Priority Encoder on Basys 3.
 
 Lab 2
