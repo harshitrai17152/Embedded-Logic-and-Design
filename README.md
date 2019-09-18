@@ -48,12 +48,9 @@ Then calculate GCD and display result on SSD.
 
 **LAB 10**
 
-• Write separate Verilog code for the control path.
-• Write separate Verilog code for datapath 
-• Write top file (name it as gcd_top**) 
-• Give the input via switches and display the results on 7-segment in BCD format 
-• Use 25 MHz clock for gcd and 190Hz clock for led-to-bcd. 
-• Validate the design on FPGA
+Consider the following function:
+Q = (X/T) + sqrt (D*ln(N)/T)
+Here X,T,N are integers such that X <=T and N > T. The D is constant and equal to 2.Find the corresponding value of Q.
 
 **LAB 11**
 
@@ -70,7 +67,7 @@ the SSD
 
 Consider the following function:
 Q = (X/T) + sqrt (D*ln(N)/T)
-Here X,T,N are integers such that X <=T and N > T. The D is constant and equal to 2.Find the corresponding value of Q.
+Here X,T,N are integers such that X <=T and N > T. The D is constant and equal to 2. Compare different Q values.
 
 **LAB 13**
 
