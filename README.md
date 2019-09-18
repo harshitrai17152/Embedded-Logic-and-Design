@@ -27,9 +27,7 @@ Note: While switching the counter, the count value should not be reset.
 
 **LAB 5**
 
-Design a 6 bit up_counter and Display its out count on SSD (Seven Segment
-Display) using both Internal and External SSD. Display 2 LSB bit on External
-SSD and 4 MSB bit on Internal SSD.
+Design and implement a 4x4 Multiplier on Basys 3.
 
 **LAB 6**
 
